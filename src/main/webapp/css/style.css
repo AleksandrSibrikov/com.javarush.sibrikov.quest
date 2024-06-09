@@ -1,0 +1,34 @@
+body, html {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.header h1 {
+    margin: 0;
+    color: #343a40;
+}
+
+
+.gameInformation {
+    background-color: burlywood;
+    padding: 100px;
+    text-align: center;
+    border-top: 1px solid #dee2e6;
+}
+
+.gameInformation p {
+    margin: 0;
+    color: #343a40;
+}
+
